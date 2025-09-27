@@ -32,17 +32,20 @@ Marketing Intelligence Chat is an AI-powered marketing assistant that generates 
 ### Setup Instructions
 
 1. Clone the repository:
+
 ```bash
-git clone <repository-url>
+git clone https://github.com/shuv1824/marketing-intelligence-chat
 cd marketing-intelligence-chat
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -155,6 +158,7 @@ npm run lint
 ### Type Safety
 
 The project uses TypeScript for type safety with comprehensive type definitions for:
+
 - Data source connections
 - Channel configurations
 - Campaign data structures
@@ -221,13 +225,11 @@ Contributions are welcome! Please follow these steps:
 - Update types when adding new features
 - Test across different screen sizes
 
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with React + TypeScript + Vite template
 - Icons provided by Lucide React
 - Styling powered by Tailwind CSS v4
-
 
 ---
 
